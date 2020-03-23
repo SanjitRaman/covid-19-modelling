@@ -1,5 +1,4 @@
-print('hello world!')
-
-print('I have made summore changes.')
-
-#There is even another python file!
+# Virus Spread Model
+# Version: 1.0.0
+# Date: 23.03.2020
+# Authors: Sanjit Raman
